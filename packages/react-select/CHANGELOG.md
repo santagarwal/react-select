@@ -1,5 +1,20 @@
 # react-select
 
+## 3.1.0
+
+### Minor Changes
+
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Add `isLoading` prop support to the AsyncSelect component (see #3690)
+
+### Patch Changes
+
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Convert class components that don't have to be class components to function components to reduce bundle size
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Allow the input component to be a `textarea` element
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Add aria attributes to dummy input
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Fix Flow issues. Refer to the linked PR for more details on the specific issues.
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Update react-transition-group to ^4.3.0
+- [8fa6c0f](https://github.com/JedWatson/react-select/commit/8fa6c0f01416b923d2c7a6f31ee687b6248fcd71) [#3877](https://github.com/JedWatson/react-select/pull/3877) Thanks [@MiaLearnsToCode](https://github.com/MiaLearnsToCode)! - Enable Babel loose mode to improve bundle size
+
 ## 3.0.8
 
 ### Patch Changes
